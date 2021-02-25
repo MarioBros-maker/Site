@@ -4,7 +4,7 @@
 
 - 以下文档都是测试用的！
 
-[![stars](https://badgen.net/github/MarioBros-maker/Site?icon=github&color=4ab8a1)](https://github.com/MarioBros-maker/Site) 
+[![stars](https://badgen.net/github/stars/MarioBros-maker/Site?icon=github&color=4ab8a1)](https://www.github.com/MarioBros-maker/Site) 
 
 [GitHub](<https://github.com/MarioBros-maker/Site>)
 [进入网站](README.md)
